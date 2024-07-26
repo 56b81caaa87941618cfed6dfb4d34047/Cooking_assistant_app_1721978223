@@ -9,13 +9,13 @@ Vue.component("simple_footer_component_1721978224", {
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
                             <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                            STARTER_TEMPLATE_APPLICATION_NAME
+                            FoodCraft
                         </a>
                     </div>
                 </div>
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
-                        STARTER_TEMPLATE_FOOTER_CONTENT
+                        Unleash your culinary creativity with FoodCraft, the ultimate app for food makers and passionate home cooks. Discover endless recipes, create custom meal plans, and elevate your cooking skills to new heights.
                     </div>
                 </div>
             </div>
